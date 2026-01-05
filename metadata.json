@@ -1,0 +1,7 @@
+{
+  "name": "The World Today",
+  "description": "A global news platform providing neutral, simple, and insightful explanations of major international events and trends.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
