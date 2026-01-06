@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
 import { AppState, Category, NewsItem, ChatMessage } from './types';
-import { fetchGlobalNews } from './services/newsService';
+// import { fetchGlobalNews } from './services/newsService';
 import { Header } from './components/Header';
 import { CategoryBar } from './components/CategoryBar';
 import { NewsCard } from './components/NewsCard';
